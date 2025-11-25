@@ -29,13 +29,13 @@ Maintain wishlist and viewing history
 Manage profile, address, and payment options
 
 #Technology	Usage:
-1.Java	= Backend Logic
-2.JSP + Servlets	= Web UI & Controllers
-3.JDBC	= Database Connectivity
-4.MySQL	= Database
-5.HTML / CSS / JSTL =	UI and templating
-6.Apache Tomcat	= Deployment & Server
-7.Maven	= Dependency Management
+Java	= Backend Logic
+JSP + Servlets	= Web UI & Controllers
+JDBC	= Database Connectivity
+MySQL	= Database
+HTML / CSS / JSTL =	UI and templating
+Apache Tomcat	= Deployment & Server
+Maven	= Dependency Management
 
 #How to Run the Project:
 Import the project in Eclipse / NetBeans / IntelliJ as Maven Web Project
